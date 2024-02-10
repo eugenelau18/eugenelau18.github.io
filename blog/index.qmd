@@ -1,0 +1,34 @@
+---
+title: "Eugene Lau"
+about:
+    template: trestles
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/
+        - icon: github
+          text: Github
+          url: https://github.com/eugenelau18
+        - icon: twitter
+          text: Twitter
+          url: https://twitter.com/
+        - icon: instagram
+          text: Instagram
+          url: https://www.instagram.com/
+        - text: "{{< fa envelope >}} Email"
+          url: mailto:e
+        - text: "{{< ai orcid >}} ORCID "
+          url: https://orcid.org/
+        - text: "{{< ai google-scholar >}} Google Scholar"
+          url: https://scholar.google.com/citations?user=
+        - text: "{{< ai viaf >}} VIAF "
+          url: http://viaf.org/viaf/
+        - text: "{{< ai isni >}} ISNI "
+          url: https://isni.org/isni/
+        - text: "{{< ai osf >}} OSF"
+          url: https://osf.io/awhgj
+image: img/me.png
+comments: false
+---
+
+## ...
